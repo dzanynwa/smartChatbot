@@ -1,0 +1,51 @@
+{
+  "positions": [
+    {
+        "identifier": "React Developer",
+        "tests": [
+          {
+            "id": 1,
+            "testDescription": "Finish the screen to look as close as possible to the one on the link below. Create the following components to match the UI: \n - Navbar \n - Banner Section \n - CardList \n -Card \n -Footer. Moreover, use Axios to fetch the data from API specified below, and utilize date-fns to format the dates.",
+            "testUILink": "https://figma.com/2342134",
+            "testHelperLinks": [
+                {
+                    "title": "API",
+                    "url": "https://pokemon-api.com"
+                },
+                {
+                    "title": "Date-FNS",
+                    "url": "https://datefns.com"
+                },
+                {
+                    "title": "Axios",
+                    "url": "https://axios.com"
+                }
+            ],
+            "timeLimit": 120,
+            "gitRepo": "https://github.com/dzanynwa"
+          },
+          {
+            "id": 2,
+            "testDescription": "Complete the following components: \n - Slider \n - FormContainer \n - FormInput \n - FormDate. \n Make sure that the design is as close as possible to the one specified on Figma board. Utilize React Hooks Form, Styled Components and DateFNS to achieve adequate and proper form management and submition. ",
+            "testUILink": "https://figma.com/2342134",
+            "testHelperLinks": [
+                {
+                    "title": "Styled Components",
+                    "url": "https://styled-components.com"
+                },
+                {
+                    "title": "Date-FNS",
+                    "url": "https://datefns.com"
+                },
+                {
+                    "title": "React Hook Form",
+                    "url": "https://react-hook-form.com"
+                }
+            ],
+            "timeLimit": 80,
+            "gitRepo": "https://github.com/dzanynwa"
+          }
+        ]
+    }
+  ]
+}

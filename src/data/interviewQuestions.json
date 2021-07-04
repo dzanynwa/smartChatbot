@@ -1,0 +1,24 @@
+{
+"questions": [
+    {
+        "title": "Tell us about yourself!",
+        "info": "Tell us what you like, what you do not like, what are your hobbies, passions and desires. Let us know you a bit better."
+    },
+    {
+        "title": "Education",
+        "info": "Tell us about your education. Do not be afraid to mentione extra-curricular activities, courses or conferences. We value every piece of information you give us!"
+    },
+    {
+        "title": "Work Experience",
+        "info": "Tell us about your work experience. Where have you worked until now, what are your experiences from that period, what have you learned, what haven't you learned..."
+    },
+    {
+        "title": "What do you expect from us?",
+        "info": "Talk to us about your expectations. Make sure to mention your hourly rate and all other financial and non-financial packages your expect."
+    },
+    {
+        "title": "Why should we hire you?",
+        "info": "Tell us what makes you unique. Try to present yourself and convince us to hire you."
+    }
+]
+}
